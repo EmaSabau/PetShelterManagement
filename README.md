@@ -2,26 +2,26 @@
 
 ## 1. Introduction
 
-1. Introduction ........................................................................ 1  
-2. User Requirements Analysis (Project Specifications) ................................ 1  
+1. Introduction  
+2. User Requirements Analysis (Project Specifications)   
 
-   2.1. Specific Assumptions for the Chosen Domain (Requirements, Constraints) ............ 1  
-   2.2. Structured (Tabular) Organization of User Requirements .................................... 2  
-   2.3. Identification and Characterization of User Profiles (Admin, Internal User, External User, Other Actors) .......................................................................................... 2  
+   2.1. Specific Assumptions for the Chosen Domain (Requirements, Constraints) 
+   2.2. Structured (Tabular) Organization of User Requirements   
+   2.3. Identification and Characterization of User Profiles (Admin, Internal User, External User, Other Actors)  
 
-3. Data Model and Description ........................................................................... 3  
+3. Data Model and Description 
 
-   3.1. Entities and Their Attributes (Detailed Description – Physical Implementation) ....... 3  
-   3.2. EER/UML Diagram for the Complete Data Model ............................................ 5  
-   3.3. Data Normalization .................................................................................... 5  
+   3.1. Entities and Their Attributes (Detailed Description – Physical Implementation) 
+   3.2. EER/UML Diagram for the Complete Data Model  
+   3.3. Data Normalization   
 
-4. Implementation Details ............................................................................. 7  
+4. Implementation Details   
 
-   4.1. Functional Description of Modules (Logical Organization – e.g., Java Class Structure, HTML, JSP, ASP, PHP Code) ............................................................... 12  
-   4.2. User/Installation Manual (Differentiated by User Type) ............................... 13  
-   4.3. Application Security Elements ................................................................... 16  
+   4.1. Functional Description of Modules (Logical Organization – e.g., Java Class Structure, HTML, JSP, ASP, PHP Code)   
+   4.2. User/Installation Manual (Differentiated by User Type)  
+   4.3. Application Security Elements  
 
-5. Conclusions, Limitations, and Future Development ......................................... 17  
+5. Conclusions, Limitations, and Future Development   
 
 ---
 
