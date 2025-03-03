@@ -16,10 +16,8 @@
    3.3. Data Normalization   
 
 4. Implementation Details   
-
-   4.1. Functional Description of Modules (Logical Organization – e.g., Java Class Structure, HTML, JSP, ASP, PHP Code)   
-   4.2. User/Installation Manual (Differentiated by User Type)  
-   4.3. Application Security Elements  
+  
+   4.1. User/Installation Manual (Differentiated by User Type)  
 
 5. Conclusions, Limitations, and Future Development   
 
